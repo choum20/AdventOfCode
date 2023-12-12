@@ -28,4 +28,3 @@ namespace Aoc08
 		}
 	}
 }
-// Atteint 2619324
