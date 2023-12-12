@@ -22,7 +22,6 @@ namespace Aoc08
 			for (int i = 0; i < results.Count - 1; i++)
 			{
 				results[i + 1].Compteur = Helper.Ppcm(results[i].Compteur, results[i + 1].Compteur);
-				Console.WriteLine(results[i + 1].Compteur);
 			}
 
 			return results.Last().Compteur;
