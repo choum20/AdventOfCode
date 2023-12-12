@@ -1,0 +1,17 @@
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Aoc08.exe
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Aoc08.deps.json
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Aoc08.runtimeconfig.json
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Aoc08.dll
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Aoc08.pdb
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.csproj.AssemblyReference.cache
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.AssemblyInfoInputs.cache
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.AssemblyInfo.cs
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.csproj.CoreCompileInputs.cache
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.dll
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\refint\Aoc08.dll
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.pdb
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\Aoc08.genruntimeconfig.cache
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\obj\Debug\net6.0\ref\Aoc08.dll
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\Data.txt
+F:\OneDrive\Documents\Personnel\Git\AdventOfCode\08\Aoc08\Aoc08\bin\Debug\net6.0\DataTest.txt
